@@ -7,7 +7,7 @@ names = model.names
 
 
 
-
+cap=cv2.VideoCapture()
 
 
 frame_count = 0
