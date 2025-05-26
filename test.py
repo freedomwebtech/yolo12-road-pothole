@@ -11,7 +11,7 @@ cap=cv2.VideoCapture()
 
 
 frame_count = 0
-hs={}
+
 while True:
     ret, frame = cap.read()
     if not ret:
